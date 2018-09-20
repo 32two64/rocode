@@ -1,0 +1,3 @@
+﻿  RoCodeSource.cpp
+c:\users\jorda.office\source\repos\rocodesource\rocodesource\rocodelua.h(87): warning C4717: 'lua_pcall': recursive on all control paths, function will cause runtime stack overflow
+  RoCodeSource.vcxproj -> C:\Users\jorda.OFFICE\source\repos\RoCodeSource\Debug\RoCodeSource.dll
